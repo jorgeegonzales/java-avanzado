@@ -68,7 +68,7 @@ Caso en la que se utilizaria Clean Architecture
 
 Se podria utilizar en proyectos a largo plazo , donde los cambios van a ser parte del desarrollo del software.En este 
 tipo de proyecto existe la necesidad de minimizar los impactos de los cambios.Como una aplicacion web compleja. Donde 
-se requiere de interfaces para mantener las capas desacopladas.Las de bajp nivel deberian ser facilmente sustituibles 
+se requiere de interfaces para mantener las capas desacopladas.Las de bajo nivel deberian ser facilmente sustituibles 
 sin que la aplicacion sufre algun impacto,
 
 
